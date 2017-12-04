@@ -1,0 +1,7 @@
+1-  egitim diye klasor olustur. 
+2-  1/2/3 diye alt alta dizin oluştur
+3-  3 klasorunun altına içerisine girmeden file isminde bir dosya oluştur.
+4-  dosyanın içerisine echo komutu ile bir şeyler yaz
+5-  relative path kullanarak bu dosyanın içeriğini oku.
+6-  file ismindeki dosyayı yeniisim diye değiştir.
+7-  sonra 1/2/3 klasorlerini tek komut ile sil.
