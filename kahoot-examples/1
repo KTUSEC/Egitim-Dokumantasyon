@@ -1,0 +1,29 @@
+Q1:Bir klasördeki tüm dosyaları listelemeye yarayan ls parametresi nedir?
+-a
+
+Q2:Bir komutun info bilgisini döken komut nedir?
+man
+
+Q3:Bir dosya içeriğinin son 10 satırını gösteren komut nedir?
+tail
+
+Q4:Bir klasörü silmek için kullanılan rm parametresi nedir?
+-r
+
+Q5:/etc dizini altında hangi dosyalar bulunur?
+Konfigurasyon dosyaları
+
+Q6:. neyi temsil eder?
+Bulunduğu dizin
+
+Q7:Redirection stderr hangi sayı ile ifade edilir?
+2
+
+Q8:grep -i parametresi ne işe yarar?
+Büyük küçük harf ayrımı yapmaz
+
+Q9:Regexte her . bir nedir?
+karakter
+
+Q10:Kullanıcı parolalarının tutulduğu dosya nedir?
+/etc/shadow
